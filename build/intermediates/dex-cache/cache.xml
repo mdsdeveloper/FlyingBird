@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/exploded-aar/flyingBird/BaseGameUtils/1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="de20676f47c6129eca6501b6a7aeeaeeacbb0de0">
+        <dex dex="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/debug/classes-8c3905f64c30dae8a8fdbc0d326d58ceb41413ee.jar" />
+    </item>
+    <item
+        jar="/Users/matias/AndroidStudioProjects/flyingBird/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba0b0f4141d3647d77145b416245f9de689df464">
+        <dex dex="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/release/core-1.0-99e8239084b95e4549d4cebfa9cf3eab608008dc.jar" />
+    </item>
+    <item
+        jar="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/debug/classes-8660e5566345aee2e7b1ae112df233f0f456e75c.jar" />
+    </item>
+    <item
+        jar="/Users/matias/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.3/3b8f2a7e697b097735ec8fd2b9d576d0959cb7c9/gdx-1.5.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b8f2a7e697b097735ec8fd2b9d576d0959cb7c9">
+        <dex dex="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/debug/gdx-1.5.3-1785411cb6d259b8b56edf410272934f8496edec.jar" />
+    </item>
+    <item
+        jar="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-d6444d3df584f41801eae3b8198151c2a9f481d7.jar" />
+    </item>
+    <item
+        jar="/Users/matias/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.3/903703e4eca4d27092cf61412b7a583aa26d14ad/gdx-backend-android-1.5.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="903703e4eca4d27092cf61412b7a583aa26d14ad">
+        <dex dex="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.5.3-260184413f2cd2651804caa7e094f01e13d60a21.jar" />
+    </item>
+    <item
+        jar="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/debug/classes-7cd7201124ac7025ad12e9e62223b37a427f933a.jar" />
+    </item>
+    <item
+        jar="/Users/matias/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-d9848fd7b8370dba8e8407d4a4ec5b5209adb339.jar" />
+    </item>
+    <item
+        jar="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/debug/classes-4b5dbca376cf5a64a76045260bc50a0458759d2a.jar" />
+    </item>
+
+</items>

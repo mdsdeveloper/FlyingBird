@@ -1,0 +1,10 @@
+/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/classes/release
+/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/release/support-annotations-21.0.0-d9848fd7b8370dba8e8407d4a4ec5b5209adb339.jar
+/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/release/core-1.0-99e8239084b95e4549d4cebfa9cf3eab608008dc.jar
+/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/release/classes-8c3905f64c30dae8a8fdbc0d326d58ceb41413ee.jar
+/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/release/internal_impl-21.0.0-d6444d3df584f41801eae3b8198151c2a9f481d7.jar
+/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/release/gdx-backend-android-1.5.3-260184413f2cd2651804caa7e094f01e13d60a21.jar
+/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/release/classes-4b5dbca376cf5a64a76045260bc50a0458759d2a.jar
+/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/release/classes-8660e5566345aee2e7b1ae112df233f0f456e75c.jar
+/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/release/gdx-1.5.3-1785411cb6d259b8b56edf410272934f8496edec.jar
+/Users/matias/AndroidStudioProjects/flyingBird/android/build/intermediates/pre-dexed/release/classes-7cd7201124ac7025ad12e9e62223b37a427f933a.jar
